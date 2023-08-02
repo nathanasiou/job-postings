@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,title,company,location,salary
 0,AI Electrical / Computer Engineer,"General Technical Services, LLC","Adelphi, MD 20783",Full-time
 1,"Clinical Laboratory Scientist CLS , Medical Data Scientist",Clinical Management Consultants,"Palo Alto, CA","$85,225 - $135,355 a year"
@@ -1106,3 +1107,1042 @@
 973,Data Scientist,Ivy Tech Solutions inc,Remote,"Contract
 +1"
 974,Data Scientist,Keystone Strategy,"Boston, MA","$97,000 - $198,000 a year"
+=======
+,title,company,location,salary
+0,Lead Data Scientist,Disney Media & Entertainment Distribution,"Santa Monica, CA 90401","$149,240 - $200,200 a year"
+1,Senior Predictive Modeler,Sitewise Analytics,"Dallas, TX","From $90,000 a year"
+2,Data Engineer,Booz Allen Hamilton,"Hybrid remote in Arlington, VA 22202","$73,100 - $166,000 a year"
+3,Risk Intelligence - Data Analytics Lead,Citizens,"Boston, MA 02112 
+(Central area)",Full-time
+4,Data Scientist,Brightside Health,Remote,Full-time
+5,Senior Data Scientist,EarthOptics,"Remote in Arlington, VA","$99,400 - $167,000 a year"
+6,Data Scientist,Hire IT people,"Bentonville, AR 72712",$58 an hour
+7,Data Scientist (Marketing),Penn Foster Group,Remote,Full-time
+8,Data Scientist,FanDuel,"Hybrid remote in Jersey City, NJ",
+9,Data Scientist,VivusTech,"Chantilly, VA",
+10,Data Scientist,Galaxy Technologies,"Remote in New York, NY","$83,000 - $96,000 a year"
+11,Data Scientist,Parafin,"San Francisco, CA","$150,000 - $175,000 a year"
+12,Data Scientist,Govini,"Pittsburgh, PA",Full-time
+13,Information Systems - Sr Data Analyst,Hajoca Corporation,"Lafayette Hill, PA 19444","$90,000 - $100,000 a year"
+14,Data Scientist,Bilin Technology,"Boston, MA",
+15,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+16,Data Scientist,Vibronyx,Remote,
+17,Data Scientist,Trella Health,Remote,
+18,Data Science & Technology Integration - Engineer,Allstate,"Chicago, IL","$113,400 - $156,150 a year"
+19,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+20,Data Scientist,Enable Data,"Minneapolis, MN",
+21,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+22,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+23,Data Scientist,Koddi,Remote,Full-time
+24,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+25,Data Scientist,NICE,"Atlanta, GA",
+26,Senior Data Scientist,Brightside Health,Remote,Full-time
+27,Risk Intelligence - Data Analytics Lead,Citizens,"Boston, MA 02112 
+(Central area)",Full-time
+28,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+29,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+30,Data Scientist,Vibronyx,Remote,
+31,Data Scientist,Trella Health,Remote,
+32,Research Data Scientist,Booz Allen Hamilton,"Hybrid remote in Washington, DC","$73,100 - $166,000 a year"
+33,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+34,Data Scientist,Enable Data,"Minneapolis, MN",
+35,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+36,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+37,Data Scientist,Koddi,Remote,Full-time
+38,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+39,Data Scientist,NICE,"Atlanta, GA",
+40,Senior Data Scientist,Brightside Health,Remote,Full-time
+41,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+42,"Data Scientist, NLP",Ancestry,Remote,"$68,000 - $191,000 a year"
+43,Data Science Manager Senior,FIS,"Jacksonville, FL 32235 
+(Spring Park area)",Full-time
+44,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+45,Data Scientist,Vibronyx,Remote,
+46,Data Scientist,Trella Health,Remote,
+47,Research Data Scientist,Booz Allen Hamilton,"Hybrid remote in Washington, DC","$73,100 - $166,000 a year"
+48,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+49,Data Scientist,Enable Data,"Minneapolis, MN",
+50,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+51,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+52,Data Scientist,Koddi,Remote,Full-time
+53,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+54,Data Scientist,NICE,"Atlanta, GA",
+55,Senior Data Scientist,Brightside Health,Remote,Full-time
+56,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+57,"Data Scientist, NLP",Ancestry,Remote,"$68,000 - $191,000 a year"
+58,"Principal Software Engineer, Machine Learning Engineering",Experis,"Richmond, VA 23238",Full-time
+59,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+60,Data Scientist,Bilin Technology,"Boston, MA",
+61,Data Scientist,Govini,"Pittsburgh, PA",Full-time
+62,Data Scientist,Colsh Consultants,"Richfield, MN",
+63,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+64,Data Scientist,Vibronyx,Remote,
+65,Data Scientist,Trella Health,Remote,
+66,Research Data Scientist,Booz Allen Hamilton,"Hybrid remote in Washington, DC","$73,100 - $166,000 a year"
+67,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+68,Data Scientist,Enable Data,"Minneapolis, MN",
+69,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+70,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+71,Data Scientist,Koddi,Remote,Full-time
+72,"Sr Consultant, Data Science",UScellular,"Chicago, IL","$111,000 - $175,168 a year"
+73,Data Scientist,NICE,"Atlanta, GA",
+74,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+75,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+76,Data Scientist,Vibronyx,Remote,
+77,Data Scientist,Trella Health,Remote,
+78,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+79,Data Scientist,Enable Data,"Minneapolis, MN",
+80,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+81,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+82,Data Scientist,Koddi,Remote,Full-time
+83,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+84,Data Scientist,NICE,"Atlanta, GA",
+85,Senior Data Scientist,Brightside Health,Remote,Full-time
+86,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+87,"Data Scientist, NLP",Ancestry,Remote,"$68,000 - $191,000 a year"
+88,Data Engineer,"Modern Technology Solutions, Inc.","Beavercreek, OH",Full-time
+89,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+90,Data Scientist,Bilin Technology,"Boston, MA",
+91,Data Scientist,Govini,"Pittsburgh, PA",Full-time
+92,Data Scientist,Colsh Consultants,"Richfield, MN",
+93,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+94,Data Scientist,Vibronyx,Remote,
+95,Data Scientist,Trella Health,Remote,
+96,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+97,Data Scientist,Enable Data,"Minneapolis, MN",
+98,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+99,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+100,Data Scientist,Koddi,Remote,Full-time
+101,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+102,Data Scientist,NICE,"Atlanta, GA",
+103,Senior Data Scientist,Brightside Health,Remote,Full-time
+104,Senior Vice President / Senior Data Architect/Manager - Rutherford NJ - Hybrid,Citi,"Rutherford, NJ 07070","$170,880 - $256,320 a year"
+105,Data Scientist,Govini,"Pittsburgh, PA",Full-time
+106,Data Scientist,Colsh Consultants,"Richfield, MN",
+107,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+108,Data Scientist,Vibronyx,Remote,
+109,Data Scientist,Trella Health,Remote,
+110,Research Data Scientist,Booz Allen Hamilton,"Hybrid remote in Washington, DC","$73,100 - $166,000 a year"
+111,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+112,Data Scientist,Enable Data,"Minneapolis, MN",
+113,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+114,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+115,Data Scientist,Koddi,Remote,Full-time
+116,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+117,Senior Data Scientist,Brightside Health,Remote,Full-time
+118,Associate Statistical Project Leader - Oncology,Sanofi,"Cambridge, MA 02238 
+(Mid-Cambridge area)",
+119,Data Scientist,NICE,"Atlanta, GA",
+120,Data Scientist,Colsh Consultants,"Richfield, MN",
+121,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+122,Data Scientist,Vibronyx,Remote,
+123,Data Scientist,Trella Health,Remote,
+124,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+125,Data Scientist,Enable Data,"Minneapolis, MN",
+126,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+127,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+128,Data Scientist,Koddi,Remote,Full-time
+129,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+130,Data Scientist,NICE,"Atlanta, GA",
+131,Senior Data Scientist,Brightside Health,Remote,Full-time
+132,Senior Systems & Data Analyst,Freedman Healthcare,Remote,"$95,000 - $110,000 a year"
+133,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+134,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+135,Data Scientist,Triple-S Steel,"Houston, TX 77026 
+(Eastex - Jensen area)",Full-time
+136,Data Scientist,Vibronyx,Remote,
+137,Data Scientist,Trella Health,Remote,
+138,Research Data Scientist,Booz Allen Hamilton,"Hybrid remote in Washington, DC","$73,100 - $166,000 a year"
+139,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+140,Data Scientist,Enable Data,"Minneapolis, MN",
+141,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+142,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+143,Data Scientist,Koddi,Remote,Full-time
+144,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+145,Data Scientist,NICE,"Atlanta, GA",
+146,Senior Data Scientist,Brightside Health,Remote,Full-time
+147,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+148,"Data Scientist, NLP",Ancestry,Remote,"$68,000 - $191,000 a year"
+149,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+150,Research Data Scientist,Booz Allen Hamilton,"Hybrid remote in Washington, DC","$73,100 - $166,000 a year"
+151,Data Scientist,"Ascend Analytics, LLC","Remote in Boulder, CO 80302","$80,000 - $130,000 a year"
+152,Data Scientist,Enable Data,"Minneapolis, MN",
+153,Data Scientist,Grid,"San Francisco, CA 94123 
+(Marina area)",Full-time
+154,Data Analyst/Scientist,Virtue Analytics,"Woodbury, MN",
+155,Data Scientist,Koddi,Remote,Full-time
+156,Data Scientist III,Conde Nast,"New York, NY","$150,000 - $200,000 a year"
+157,Data Scientist,NICE,"Atlanta, GA",
+158,Senior Data Scientist,Brightside Health,Remote,Full-time
+159,Sports Data Scientist,Swish Analytics,Remote,"$90,000 - $190,000 a year"
+160,Data Scientist II,Microsoft,"Redmond, WA 98052 
+(Overlake area)","$94,300 - $182,600 a year"
+161,"Data Scientist, NLP",Ancestry,Remote,"$68,000 - $191,000 a year"
+162,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+163,Remote- Statistical Project Leader,Sanofi,"Remote in Bridgewater, NJ 08807","$180,687 a year"
+164,Data Scientist,VitalCORE,Remote,
+165,Data Scientist,VitalCORE,Remote,
+166,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+167,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+168,Data Scientist,Patra Corporation,Remote,Full-time
+169,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+170,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+171,Data Scientist,Assetario,Remote,
+172,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+173,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+174,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+175,Healthcare Data Scientist,Inovalon,Remote,
+176,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+177,Analyst/Statistician (Salesforce) - Navy experience,The LDM Group,"Remote in Phoenix, AZ","From $42,000 a year"
+178,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+179,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+180,Data Scientist,VitalCORE,Remote,
+181,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+182,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+183,Data Scientist,Patra Corporation,Remote,Full-time
+184,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+185,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+186,Data Scientist,Assetario,Remote,
+187,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+188,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+189,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+190,Healthcare Data Scientist,Inovalon,Remote,
+191,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+192,"Senior Software Engineer, AI / Core Optimization",Topaz Labs,"Dallas, TX",Full-time
+193,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+194,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+195,Data Scientist,VitalCORE,Remote,
+196,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+197,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+198,Data Scientist,Patra Corporation,Remote,Full-time
+199,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+200,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+201,Data Scientist,Assetario,Remote,
+202,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+203,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+204,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+205,Healthcare Data Scientist,Inovalon,Remote,
+206,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+207,Postdoctoral Scientist - Tatonetti Lab - Data-Driven Precision Pharmacology,CEDARS-SINAI,"West Hollywood, CA 90069","$64,500 - $93,600 a year"
+208,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+209,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+210,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+211,Data Scientist,Patra Corporation,Remote,Full-time
+212,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+213,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+214,Data Scientist,Assetario,Remote,
+215,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+216,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+217,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+218,Healthcare Data Scientist,Inovalon,Remote,
+219,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+220,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+221,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+222,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+223,FSP Senior Statistical Programmer I/II,PHASTAR,Remote,"Full-time
++1"
+224,Data Scientist,Kontakt.io,"Hybrid remote in New York, NY",Full-time
+225,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+226,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+227,Data Scientist,Assetario,Remote,
+228,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+229,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+230,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+231,Healthcare Data Scientist,Inovalon,Remote,
+232,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+233,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+234,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+235,Data Scientist,Kontakt.io,"Hybrid remote in New York, NY",Full-time
+236,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+237,"Principal, AI/ML Engineer",Fidelity Investments,"Salt Lake City, UT 84111 
+(Central City area)",Full-time
+238,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+239,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+240,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+241,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+242,Data Scientist,Patra Corporation,Remote,Full-time
+243,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+244,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+245,Data Scientist,Assetario,Remote,
+246,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+247,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+248,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+249,Healthcare Data Scientist,Inovalon,Remote,
+250,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+251,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+252,Data Scientist,Kontakt.io,"Hybrid remote in New York, NY",Full-time
+253,Machine Learning Engineer,CACI,"Fayetteville, NC 28311",Full-time
+254,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+255,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+256,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+257,Data Scientist,Assetario,Remote,
+258,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+259,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+260,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+261,Healthcare Data Scientist,Inovalon,Remote,
+262,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+263,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+264,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+265,Data Scientist,Kontakt.io,"Hybrid remote in New York, NY",Full-time
+266,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+267,Information Systems - Sr Data Analyst,Hajoca Corporation,"Lafayette Hill, PA 19444","$90,000 - $100,000 a year"
+268,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+269,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+270,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+271,Data Scientist,Patra Corporation,Remote,Full-time
+272,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+273,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+274,Data Scientist,Assetario,Remote,
+275,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+276,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+277,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+278,Healthcare Data Scientist,Inovalon,Remote,
+279,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+280,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+281,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+282,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+283,Lead Engineer - Generative AI Product Engineering (Remote-Eligible),Capital One,"Remote in Chicago, IL 60695",Full-time
+284,Data Scientist,Kontakt.io,"Hybrid remote in New York, NY",Full-time
+285,Data Scientist,VitalCORE,Remote,
+286,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+287,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+288,Data Scientist,Patra Corporation,Remote,Full-time
+289,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+290,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+291,Data Scientist,Assetario,Remote,
+292,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+293,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+294,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+295,Healthcare Data Scientist,Inovalon,Remote,
+296,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+297,Senior Algorithms & Machine Learning Scientist,WALGREENS,"Chicago, IL 60607 
+(South Loop area)",
+298,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+299,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+300,Data Scientist,VitalCORE,Remote,
+301,Associate Data Scientist (Dec 2022 - May 2023 Graduates),T. Rowe Price,"New York, NY","$88,000 - $150,000 a year"
+302,Remote - Data Scientist,Green Dot Corporation,Remote,Full-time
+303,Data Scientist,Patra Corporation,Remote,Full-time
+304,Data Scientist,FAST GROWING TREES LLC,Remote,"$80,000 - $120,000 a year"
+305,Data Scientist (USA),Electra Vehicles,Remote,Full-time
+306,Data Scientist,Assetario,Remote,
+307,Data Scientist,Agile Tech Labs,"Atlanta, GA 30303 
+(Downtown area)",$65 - $75 an hour
+308,Data Engineer,"Modern Technology Solutions, Inc.","Beavercreek, OH",Full-time
+309,Senior Data Analyst,Curology,Remote,"$140,000 - $180,000 a year"
+310,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+311,Healthcare Data Scientist,Inovalon,Remote,
+312,Senior Machine Learning Engineer,Capital One,"Richmond, VA 23218 
+(City Center area)",Full-time
+313,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+314,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+315,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+316,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+317,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+318,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+319,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+320,Strategic Customers - Data Scientist,Oracle,United States,
+321,Data Scientist,Pinterest,Remote,
+322,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+323,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+324,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+325,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+326,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+327,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+328,Risk Intelligence - Data Analytics Lead,Citizens,"Boston, MA 02112 
+(Central area)",Full-time
+329,Data Scientist,CPower,Remote,Full-time
+330,Data Scientist,Avenue Code,Remote in United States,"$110,000 - $200,000 a year"
+331,Healthcare Data Scientist,Inovalon,Remote,
+332,"Data Scientist, Analytics",Overstock.com Inc.,Remote,"$88,000 - $110,000 a year"
+333,Research Data Scientist,Swayable,"Remote in New York, NY",Full-time
+334,Data Scientist,HNM Global Solutions,"Alexandria, VA","Up to $160,000 a year"
+335,Data Scientist,Kontakt.io,"Hybrid remote in New York, NY",Full-time
+336,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+337,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+338,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+339,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+340,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+341,Strategic Customers - Data Scientist,Oracle,United States,
+342,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+343,Associate Statistical Project Leader - Oncology,Sanofi,"Cambridge, MA 02238 
+(Mid-Cambridge area)",
+344,Data Scientist,Pinterest,Remote,
+345,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+346,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+347,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+348,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+349,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+350,Strategic Customers - Data Scientist,Oracle,United States,
+351,Data Scientist,Pinterest,Remote,
+352,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+353,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+354,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+355,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+356,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+357,Data Scientist,CPower,Remote,Full-time
+358,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+359,Senior Algorithms & Machine Learning Scientist,WALGREENS,"Chicago, IL 60607 
+(South Loop area)",
+360,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+361,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+362,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+363,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+364,Strategic Customers - Data Scientist,Oracle,United States,
+365,Data Scientist,Pinterest,Remote,
+366,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+367,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+368,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+369,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+370,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+371,Data Scientist,CPower,Remote,Full-time
+372,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+373,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+374,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+375,Data Scientist (All Levels),Noblis,"Remote in Reston, VA 20191","$83,700 - $146,500 a year"
+376,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+377,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+378,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+379,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+380,Strategic Customers - Data Scientist,Oracle,United States,
+381,Data Scientist,Pinterest,Remote,
+382,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+383,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+384,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+385,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+386,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+387,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+388,Senior Machine Learning Engineer,GloComms,"San Jose, CA",Full-time
+389,Data Scientist,CPower,Remote,Full-time
+390,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+391,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+392,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+393,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+394,Strategic Customers - Data Scientist,Oracle,United States,
+395,Data Scientist,Pinterest,Remote,
+396,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+397,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+398,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+399,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+400,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+401,Data Scientist,CPower,Remote,Full-time
+402,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+403,Lead Statistical (SAS) Programmer,Redbock,Remote,$75 - $100 an hour
+404,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+405,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+406,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+407,Strategic Customers - Data Scientist,Oracle,United States,
+408,Data Scientist,Pinterest,Remote,
+409,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+410,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+411,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+412,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+413,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+414,Data Scientist,CPower,Remote,Full-time
+415,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+416,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+417,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+418,"Director, Product Management - Machine Learning Experience",Capital One,"Hybrid remote in Richmond, VA 23218",Full-time
+419,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+420,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+421,Strategic Customers - Data Scientist,Oracle,United States,
+422,Data Scientist,Pinterest,Remote,
+423,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+424,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+425,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+426,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+427,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+428,Data Scientist,CPower,Remote,Full-time
+429,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+430,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+431,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+432,"Senior Software Engineer, AI / Core Optimization",Topaz Labs,"Dallas, TX",Full-time
+433,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+434,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+435,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+436,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+437,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+438,Strategic Customers - Data Scientist,Oracle,United States,
+439,Data Scientist,Pinterest,Remote,
+440,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+441,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+442,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+443,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+444,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+445,Data Scientist,CPower,Remote,Full-time
+446,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+447,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+448,Postdoctoral Scientist - Tatonetti Lab - Data-Driven Precision Pharmacology,CEDARS-SINAI,"West Hollywood, CA 90069","$64,500 - $93,600 a year"
+449,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+450,Data Scientist,"VMR Strategic Solutions, LLC","Remote in Bethesda, MD",Full-time
+451,Data Scientist,REVOLVE,"Cerritos, CA 90703","$90,000 - $120,000 a year"
+452,Data Scientist,withco,"New York, NY","$180,000 - $200,000 a year"
+453,Data Scientist,Siddhi Solutions,Remote,$65 - $70 an hour
+454,Strategic Customers - Data Scientist,Oracle,United States,
+455,Data Scientist,Pinterest,Remote,
+456,Python Data Scientist,konnectingtree.Inc,Remote,"$110,000 - $115,000 a year"
+457,Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",Contract
+458,2024 Early Talent Rotational Program: Technology - Data & AI (CDAIO),TIAA,"Charlotte, NC","$71,000 - $73,000 a year"
+459,Data Scientist,Synectics for Management Decisions Inc,"Arlington, VA 22209 
+(North Rosslyn area)",Full-time
+460,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+461,Data Scientist,CPower,Remote,Full-time
+462,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+463,Data Analyst / Data Analytics Engineer,MNK INFOTECH INC,"Hybrid remote in Dallas-Fort Worth, TX 75261","Full-time
++1"
+464,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+465,Data Scientist,CPower,Remote,Full-time
+466,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+467,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+468,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+469,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+470,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+471,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+472,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+473,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+474,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+475,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+476,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+477,Data Scientist,BPGbio,"Framingham, MA 01701",
+478,"Director, Product Management - Machine Learning Experience",Capital One,"Hybrid remote in Cambridge, MA 02238",Full-time
+479,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+480,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+481,Data Scientist,CPower,Remote,Full-time
+482,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+483,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+484,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+485,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+486,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+487,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+488,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+489,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+490,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+491,Lead AI/ML Engineer,Raymond James Financial,"Saint Petersburg, FL 33716 
+(Carillon area)",Full-time
+492,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+493,Postdoctoral Scientist - Tatonetti Lab - Data-Driven Precision Pharmacology,CEDARS-SINAI,"West Hollywood, CA 90069","$64,500 - $93,600 a year"
+494,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+495,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+496,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+497,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+498,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+499,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+500,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+501,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+502,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+503,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+504,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+505,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+506,Data Scientist,BPGbio,"Framingham, MA 01701",
+507,Machine Learning Engineer,CACI,"Fayetteville, NC 28311",Full-time
+508,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+509,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+510,Data Scientist,CPower,Remote,Full-time
+511,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+512,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+513,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+514,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+515,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+516,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+517,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+518,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+519,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+520,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+521,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+522,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+523,Data Scientist,BPGbio,"Framingham, MA 01701",
+524,"Senior Systems/Data Analyst (PL/SQL, Financial Services, SWIFT, Corporate Actions)",Fidelity Investments,"Boston, MA 02112 
+(Central area)",
+525,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+526,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+527,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+528,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+529,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+530,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+531,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+532,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+533,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+534,Data Scientist,BPGbio,"Framingham, MA 01701",
+535,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+536,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+537,Data Scientist [NYC],CarbonChain,"Hybrid remote in New York, NY",
+538,Sr. Data Architect,Alaka`ina Foundation Family of Companies,"Albuquerque, NM 87123 
+(Tijeras Arroyo area)",
+539,Data Scientist,Celink,Remote,"$80,000 - $105,000 a year"
+540,Data Scientist,Altria,"Remote in Richmond, VA 23230",Full-time
+541,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+542,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+543,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+544,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+545,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+546,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+547,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+548,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+549,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+550,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+551,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+552,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+553,Senior Statistical Programmer,Talentech Consulting LLC,Remote,"$59,705 - $120,730 a year"
+554,Data Scientist,BPGbio,"Framingham, MA 01701",
+555,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+556,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+557,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+558,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+559,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+560,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+561,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+562,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+563,Data Scientist,BPGbio,"Framingham, MA 01701",
+564,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+565,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+566,Data Scientist,Celink,Remote,"$80,000 - $105,000 a year"
+567,Data Scientist,Johns Hopkins University,"Baltimore, MD 21287 
+(Orangeville area)","Up to $198,110 a year"
+568,Principal Statistical Programming – Global Pharma,Warman O'Brien,"San Antonio, TX","$120,000 - $160,000 a year"
+569,Data Scientist [NYC],CarbonChain,"Hybrid remote in New York, NY",
+570,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+571,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+572,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+573,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+574,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+575,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+576,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+577,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+578,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+579,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+580,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+581,Data Scientist,BPGbio,"Framingham, MA 01701",
+582,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+583,Senior Algorithms & Machine Learning Scientist,WALGREENS,"Chicago, IL 60607 
+(South Loop area)",
+584,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+585,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+586,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+587,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+588,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+589,AI/ML Data Engineer,Guidehouse,"San Francisco, CA 94102 
+(Downtown area)","$77,500 - $155,000 a year"
+590,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+591,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+592,Data Scientist,BPGbio,"Framingham, MA 01701",
+593,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+594,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+595,Data Scientist,Celink,Remote,"$80,000 - $105,000 a year"
+596,Data Scientist [NYC],CarbonChain,"Hybrid remote in New York, NY",
+597,Machine Learning Engineer,CoVar,"Durham, NC 27707",
+598,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+599,Data Scientist,Johns Hopkins University,"Baltimore, MD 21287 
+(Orangeville area)","Up to $198,110 a year"
+600,Data Scientist-Onsite,Aries Solutions,"Hybrid remote in Charlotte, NC 28203",$80 - $90 an hour
+601,Data Scientist,"Stillwater Human Capital, LLC.","McLean, VA 22101",
+602,Data Scientist,Context Labs,"Cambridge, MA 02142 
+(East Cambridge area)",Full-time
+603,Data Scientist,NutaNXT Technologies,"Santa Clara, CA",
+604,"Data Scientist, CMC Data Science",Moderna,"Norwood, MA 02062",
+605,Sr. Data Scientist,1010data,"Remote in New York, NY","$130,000 - $145,000 a year"
+606,Junior Data Scientist,SoundThinking,"Fremont, CA 94538 
+(Downtown area)","$80,000 - $90,000 a year"
+607,Data Scientist,Avis Technologies,"Dallas, TX",$70 - $75 an hour
+608,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+609,Data Scientist Modeling,Optimal Inc.,"Dearborn, MI 48120",Contract
+610,Data Scientist,BPGbio,"Framingham, MA 01701",
+611,Senior Data Scientist (2 openings),current,"New York, NY 10011 
+(Chelsea area)","$180,000 - $205,000 a year"
+612,Data Scientist,Celink,Remote,"$80,000 - $105,000 a year"
+613,"Staff Machine Learning Software Engineer, New Initiatives - Remote",Dropbox,"Remote in Boston, MA 02108",
+614,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+615,Junior Data Scientist,ANALYTOS,"Austin, TX",
+616,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+617,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+618,Data Scientist,LT Technology Services,Arizona,
+619,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+620,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+621,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+622,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+623,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+624,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+625,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+626,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+627,"Senior Principal Scientist, Machine Learning, Molecule Prediction and Design",Bristol Myers Squibb,"San Diego, CA 92121 
+(University City area)",
+628,Data Scientist,Keystone Strategy,"Boston, MA 02116 
+(Back Bay area)","$97,000 - $198,000 a year"
+629,Sr. Data Scientist,Pri Global Inc,Remote,$80 - $90 an hour
+630,Data Scientist,Johns Hopkins University,"Baltimore, MD 21287 
+(Orangeville area)","Up to $198,110 a year"
+631,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+632,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+633,Junior Data Scientist,ANALYTOS,"Austin, TX",
+634,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+635,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+636,Data Scientist,LT Technology Services,Arizona,
+637,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+638,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+639,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+640,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+641,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+642,Principal Machine Learning Engineer,Fidelity Investments,"Westlake, TX 76262",
+643,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+644,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+645,Data Scientist,Celink,Remote,"$80,000 - $105,000 a year"
+646,Data Scientist [NYC],CarbonChain,"Hybrid remote in New York, NY",
+647,Data Scientist,Johns Hopkins University,"Baltimore, MD 21287 
+(Orangeville area)","Up to $198,110 a year"
+648,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+649,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+650,Junior Data Scientist,ANALYTOS,"Austin, TX",
+651,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+652,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+653,Data Scientist,LT Technology Services,Arizona,
+654,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+655,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+656,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+657,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+658,Principal Statistical Programmer,Penfield Search Partners,"Hybrid remote in Florham Park, NJ",Full-time
+659,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+660,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+661,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+662,Junior Data Scientist,ANALYTOS,"Austin, TX",
+663,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+664,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+665,Data Scientist,LT Technology Services,Arizona,
+666,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+667,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+668,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+669,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+670,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+671,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+672,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+673,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+674,Information Systems - Sr Data Analyst,Hajoca Corporation,"Lafayette Hill, PA 19444","$90,000 - $100,000 a year"
+675,Senior Data Scientist,CCS Fundraising,"Remote in New York, NY 10022",Full-time
+676,Data Scientist,Celink,Remote,"$80,000 - $105,000 a year"
+677,Data Scientist [NYC],CarbonChain,"Hybrid remote in New York, NY",
+678,Data Scientist,Johns Hopkins University,"Baltimore, MD 21287 
+(Orangeville area)","Up to $198,110 a year"
+679,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+680,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+681,Junior Data Scientist,ANALYTOS,"Austin, TX",
+682,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+683,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+684,Data Scientist,LT Technology Services,Arizona,
+685,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+686,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+687,Principal Machine Learning Engineer,Fidelity Investments,"Westlake, TX 76262",
+688,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+689,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+690,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+691,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+692,Junior Data Scientist,ANALYTOS,"Austin, TX",
+693,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+694,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+695,Data Scientist,LT Technology Services,Arizona,
+696,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+697,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+698,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+699,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+700,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+701,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+702,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+703,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+704,Senior Algorithms & Machine Learning Scientist,WALGREENS,"Chicago, IL 60607 
+(South Loop area)",
+705,"NLP Data Scientist, Magnifi",TIFIN,"Boulder, CO",
+706,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+707,Junior Data Scientist,ANALYTOS,"Austin, TX",
+708,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+709,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+710,Data Scientist,LT Technology Services,Arizona,
+711,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+712,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+713,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+714,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+715,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+716,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+717,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+718,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+719,Cleared Data Scientist - C1,Guidehouse,"Hybrid remote in Washington, DC 20006",
+720,Junior Data Scientist,ANALYTOS,"Austin, TX",
+721,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+722,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+723,Data Scientist,LT Technology Services,Arizona,
+724,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+725,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+726,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+727,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+728,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+729,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+730,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+731,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+732,Senior Vice President / Senior Data Architect/Manager - Rutherford NJ - Hybrid,Citi,"Rutherford, NJ 07070","$170,880 - $256,320 a year"
+733,Data Scientist,Keystone Strategy,"Boston, MA 02116 
+(Back Bay area)","$97,000 - $198,000 a year"
+734,Sr. Data Scientist,Pri Global Inc,Remote,$80 - $90 an hour
+735,Quantitative Researcher,Aresfi,"Incline Village, NV 89451",
+736,Junior Data Scientist,ANALYTOS,"Austin, TX",
+737,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+738,Senior Data Scientist,"Rocket Travel, Inc.","Remote in Chicago, IL",Full-time
+739,Data Scientist,LT Technology Services,Arizona,
+740,Data Scientist,National Security Agency,"Fort Meade, MD","$77,745 - $183,500 a year"
+741,Data Scientist,PUTNAM RECRUITING GROUP,Remote,"$140,000 - $180,000 a year"
+742,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+743,Senior Data Scientist,Etsy,"Remote in Brooklyn, NY 11201","$130,000 - $164,000 a year"
+744,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+745,Data Scientist,Renewable Energy Systems Limited,Hybrid remote,Full-time
+746,Data Scientist,Procter & Gamble,"Cincinnati, OH","Contract
++1"
+747,Sr. Data Scientist,Pri Global Inc,Remote,$80 - $90 an hour
+748,Pricing Actuary Predictive Modeler - REMOTE,DW Simpson,"Remote in New York, NY 10012","$178,000 a year"
+749,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+750,Data Scientist,Keystone Strategy,"Boston, MA 02116 
+(Back Bay area)","$97,000 - $198,000 a year"
+751,Data Scientist,Cartwheel,Remote,"$200,000 a year"
+752,Data Scientist,AppsIntegration.Inc,Remote,"$60,876 - $106,280 a year"
+753,Sr. Data Scientist,Pri Global Inc,Remote,$80 - $90 an hour
+754,Data Scientist,DigitCompass,"Washington, DC","$90,000 - $150,000 a year"
+755,Strategic Customers - Data Scientist,Oracle,United States,
+756,Data Scientist,BPGbio,"Framingham, MA 01701",
+757,Data Scientist,Fulcrum Analytics,Remote,"$100,000 - $130,000 a year"
+758,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+759,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+760,Data Scientist,Carbon Direct,"Remote in San Francisco, CA","$135,000 - $165,000 a year"
+761,"Director, Data Science",RUE GILT GROUPE,"Hybrid remote in New York, NY","$200,000 - $250,000 a year"
+762,Data Scientist,Pinterest,Remote,
+763,Data Scientist,Clayco,"Overland, MO 63114",Full-time
+764,Postdoctoral Scientist - Tatonetti Lab - Data-Driven Precision Pharmacology,CEDARS-SINAI,"West Hollywood, CA 90069","$64,500 - $93,600 a year"
+765,Data Scientist | Remote-US,"IXIS, LLC","Remote in Burlington, VT 05401",Full-time
+766,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+767,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+768,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+769,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+770,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+771,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+772,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+773,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+774,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+775,Data Scientist,Wiliot,Remote,Full-time
+776,Data Scientist,Zen Strategics LLC,Remote,Full-time
+777,Junior Data Scientist,ANALYTOS,"Austin, TX",
+778,Principal Statistical Programming – Global Pharma,Warman O'Brien,"Miami, FL","$120,000 - $160,000 a year"
+779,Data Scientist,"Wurl, LLC",Remote,
+780,Data Scientist,Ivy Tech Solutions inc,Remote,"Contract
++1"
+781,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+782,Data Scientist | Remote-US,"IXIS, LLC","Remote in Burlington, VT 05401",Full-time
+783,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+784,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+785,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+786,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+787,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+788,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+789,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+790,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+791,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+792,Principal Statistical Programmer,Penfield Search Partners,"Hybrid remote in Florham Park, NJ",Full-time
+793,Data Scientist,Zen Strategics LLC,Remote,Full-time
+794,Data Scientist,Wiliot,Remote,Full-time
+795,Sr Data Scientist,"Marriott International, Inc","Bethesda, MD 
+(Wisconsin North area)","$117,666 - $217,498 a year"
+796,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+797,Data Scientist,BOEING,"Mesa, AZ 85215 
+(Northeast area)","$113,900 - $154,100 a year"
+798,Data Scientist,US Joint Services and Activities Supported by the...,"Arlington, VA","$112,015 - $145,617 a year"
+799,MATHEMATICIAN,Empire Technological Group Ltd,United States,
+800,"Senior Data Scientist, Machine Learning (NLP)",Discord,"Hybrid remote in San Francisco, CA 94107",Full-time
+801,"Data Scientist, Media Lab",Google,"New York, NY 
+(Chelsea area)",Full-time
+802,Data Scientist 1,USmax Corporation,Remote,
+803,Senior Data Scientist,Extend,Remote,"$120,000 - $140,000 a year"
+804,Data Scientist,Keystone Strategy,"Boston, MA 02116 
+(Back Bay area)","$97,000 - $198,000 a year"
+805,Data Scientist,Amivero,Remote,Full-time
+806,Data Scientist II,TrueML,Remote,"$124,000 - $149,000 a year"
+807,Data Scientist III,Uber Freight,"San Francisco, CA 94158 
+(Mission Bay area)","$171,067 a year"
+808,Sr. Lead - Machine Learning Engineer,Capital One,"Hybrid remote in New York, NY 10012",Full-time
+809,Data Scientist - Payment Accuracy,CVS Health,Hybrid remote in New York State,"$70,000 - $140,000 a year"
+810,AI Engineer/Data Scientist,TLC Millimeterwave Products Inc,"Minneapolis, MN 55411 
+(Near North area)","$130,000 - $160,000 a year"
+811,Data Scientist,PROLIM Corporation,Remote,$75 - $80 an hour
+812,Data Scientist,Carbon Direct,"Remote in San Francisco, CA","$135,000 - $165,000 a year"
+813,"Director, Data Science",RUE GILT GROUPE,"Hybrid remote in New York, NY","$200,000 - $250,000 a year"
+814,Data Scientist,Pinterest,Remote,
+815,Data Scientist,Clayco,"Overland, MO 63114",Full-time
+816,OR Data Scientist 3,Asurion,"Nashville, TN 37203 
+(The Gulch area)",Full-time
+817,Data Scientist,Ivy Tech Solutions inc,Remote,"Contract
++1"
+818,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+819,Data Scientist | Remote-US,"IXIS, LLC","Remote in Burlington, VT 05401",Full-time
+820,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+821,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+822,"Director, Product Management - Machine Learning Experience",Capital One,"Hybrid remote in Chicago, IL 60695",Full-time
+823,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+824,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+825,Data Scientist,Clayco,"Overland, MO 63114",Full-time
+826,OR Data Scientist 3,Asurion,"Nashville, TN 37203 
+(The Gulch area)",Full-time
+827,Data Scientist,Ivy Tech Solutions inc,Remote,"Contract
++1"
+828,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+829,Data Scientist | Remote-US,"IXIS, LLC","Remote in Burlington, VT 05401",Full-time
+830,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+831,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+832,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+833,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+834,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+835,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+836,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+837,"Sr Data Analyst, AMERICAS",Smart AdServer,"Temporarily Remote in Manhattan, NY 10001","$95,000 - $115,000 a year"
+838,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+839,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+840,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+841,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+842,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+843,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+844,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+845,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+846,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+847,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+848,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+849,Data Scientist,Wiliot,Remote,Full-time
+850,Data Scientist,Zen Strategics LLC,Remote,Full-time
+851,Data Scientist,"Wurl, LLC",Remote,
+852,"Senior Systems/Data Analyst (PL/SQL, Financial Services, SWIFT, Corporate Actions)",Fidelity Investments,"Boston, MA 02112 
+(Central area)",
+853,Data Scientist,Denver Health,"Denver, CO 80203 
+(Lincoln Park area)","$69,900 - $104,900 a year"
+854,Junior Data Scientist,ANALYTOS,"Austin, TX",
+855,Data Scientist,Pinterest,Remote,
+856,Data Scientist,Clayco,"Overland, MO 63114",Full-time
+857,OR Data Scientist 3,Asurion,"Nashville, TN 37203 
+(The Gulch area)",Full-time
+858,Data Scientist,Ivy Tech Solutions inc,Remote,"Contract
++1"
+859,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+860,Data Scientist | Remote-US,"IXIS, LLC","Remote in Burlington, VT 05401",Full-time
+861,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+862,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+863,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+864,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+865,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+866,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+867,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+868,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+869,Senior Statistical Programmer,Talentech Consulting LLC,Remote,"$59,705 - $120,730 a year"
+870,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+871,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+872,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+873,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+874,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+875,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+876,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+877,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+878,Data Scientist,Wiliot,Remote,Full-time
+879,Data Scientist,Zen Strategics LLC,Remote,Full-time
+880,Data Scientist,"Wurl, LLC",Remote,
+881,Junior Data Scientist,ANALYTOS,"Austin, TX",
+882,Data Scientist,Denver Health,"Denver, CO 80203 
+(Lincoln Park area)","$69,900 - $104,900 a year"
+883,Senior Data Scientist,Pie Insurance,Remote,"$150,000 - $205,000 a year"
+884,Lead Data Scientist,Disney Media & Entertainment Distribution,"Santa Monica, CA 90401","$149,240 - $200,200 a year"
+885,Data Scientist,Clayco,"Overland, MO 63114",Full-time
+886,OR Data Scientist 3,Asurion,"Nashville, TN 37203 
+(The Gulch area)",Full-time
+887,Data Scientist,Ivy Tech Solutions inc,Remote,"Contract
++1"
+888,Applied Scientist,Descartes Labs,Remote,"$134,500 - $180,000 a year"
+889,Data Scientist | Remote-US,"IXIS, LLC","Remote in Burlington, VT 05401",Full-time
+890,Sr Data Scientist,Public Storage,"Glendale, CA","$140,000 - $180,000 a year"
+891,Data Scientist,Neuberger Berman,"New York, NY","$150,000 - $200,000 a year"
+892,Data Scientist,LinQuest Corporation,"Herndon, VA 20171",Full-time
+893,Sr. Data Scientist,Twinn Intelligence Group,"Chantilly, VA","Up to $170,000 a year"
+894,Data Scientist,Buchanan And Edwards Inc,"Washington, DC 20535 
+(Penn Quarter area)","$157,000 a year"
+895,Senior Data Scientist,Billtrust US Careers,"Remote in Arlington, VA","$148,000 - $185,000 a year"
+896,Data Scientist,Credible,"Remote in Durham, NC","$124,000 - $165,000 a year"
+897,Director Statistical Programming,Penfield Search Partners,"Cambridge, MA",Full-time
+898,"Data Scientist, Product Analytics",Meta,Remote,"$134,000 - $194,000 a year"
+899,Data Scientist,Sunixa Solutions,Remote,$60 - $65 an hour
+>>>>>>> 408412cc70a1aa6086f7867e345e53a15e4981f9
